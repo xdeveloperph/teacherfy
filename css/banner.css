@@ -1,0 +1,37 @@
+.banner-container{
+    background-image: url('../images/header.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-family: 'HelveticaLight', sans-serif;
+}
+.banner-head{
+    padding-top: 200px;
+    text-align: center;
+
+}
+.banner-text-field{
+    padding: 10px;
+    font-size: 17px;
+    min-width: 300px;
+    float: left;
+    margin: 2px;
+    border: 0px;
+    border-radius: 2px;
+
+}
+.banner-btn{
+    padding: 10px;
+    font-size: 17px;
+    min-width: 300px;
+    float: left;
+    background: #6eba49;
+    margin: 2px;
+    border: 0px;
+    border-radius: 2px;
+
+}
+.banner-form-group{
+    background: black;
+    padding: 10px;
+}

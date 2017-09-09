@@ -1,0 +1,28 @@
+.container {
+    width: 960px;
+}
+
+.score{
+    font-size: 40px;
+    background: black;
+    color: white;
+    padding: 2px 20px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+.registration-container{
+    width: 500px;
+    margin: 50px auto;
+    padding: 25px;
+    background-color: white;
+}
+.backgroun-grey{
+    background-color: rgb(244, 246, 249);
+}
+.width-max{
+    width: 100%;
+}
+.hide{
+    display: none;
+}

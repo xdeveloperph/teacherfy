@@ -1,0 +1,14 @@
+.back-grey{
+    background: #f5f5f5;
+}
+.back-custom-blue{
+    background-image: url('../images/How_it_works.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-family: 'HelveticaLight', sans-serif;
+}
+
+ .back-lblue{
+     background: #e1ecff;
+ }

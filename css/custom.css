@@ -1,0 +1,35 @@
+.p50{
+    padding: 50px;
+}
+.ptb50{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.tcenter{
+    text-align: center;
+}
+.drphead{
+    min-width: 160px;
+}
+.ptb20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.p20{
+    padding: 20px;
+}
+.pt20{
+    padding-top: 20px;
+}
+.mh90{
+    min-height: 90%;
+}
+.mh700{
+    min-height: 630px;
+}
+.left-border{
+    border-left: solid 2px #8d8d8d;
+}
+.width-max{
+    width: 100%;
+}
